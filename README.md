@@ -17,10 +17,10 @@
 
 ### 🛠 Technologies and Tools I Master:
 
-- **Operating Systems:** Linux
+- **Operating Systems:** Linux, Windows
 - **Automation:** Terraform, Ansible, Python, Shell Script
 - **Containerization & Orchestration:** Docker, Kubernetes
-- **CI/CD:** Jenkins, ArgoCD
+- **CI/CD:** GitHub Actions, GitLab Runner, ArgoCD
 - **Cloud:** AWS
 - **Virtualization:** Proxmox
 
